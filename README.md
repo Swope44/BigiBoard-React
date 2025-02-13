@@ -1,2 +1,2 @@
-# BigiBoard-React
+# DigiBoard-React
 DigiBoard ReactJS Frontend
